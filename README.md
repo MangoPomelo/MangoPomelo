@@ -1,8 +1,8 @@
 ## Hi, I'm MangoPomelo
 
-### I'm a FPS Gamer, Weeb, Web Developer, and Thinker!!
+### I'm a FPS Gamer, Weeb, Web Developer, and Designer!!
 
-- 🌱 I’m currently learning Web Development 🤣
+- 🌱 I’m currently learning Web Development
 - 🥅 2021 Goals: Do some stuff merging Frontend Development with Machine Learning
 - ⚡ Fun fact: I love to learn philosophy, used to deal with Nature Language Processing during my university years
 
