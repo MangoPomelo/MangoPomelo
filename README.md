@@ -3,8 +3,8 @@
 ### I'm a FPS Gamer, Weeb, Web Developer, and Designer!!
 
 - 🌱 I’m currently learning Web Development
-- 🥅 2021 Goals: Do some stuff merging Frontend Development with Machine Learning
-- ⚡ Fun fact: I love to learn philosophy, used to deal with Nature Language Processing during my university years
+- 🥅 2022 Goals: Have a deep grasp of standard software development process and software engineering
+- ⚡ Fun fact: Love to learn philosophy, used to deal with Nature Language Processing during my university years
 
 ### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MangoPomelo)
