@@ -1,6 +1,6 @@
 ## Hi, I'm MangoPomelo
 
-### I'm a FPS Gamer, Weeb, Web Developer, and Designer!!
+### I'm an FPS Gamer, Weeb, Web Developer, and Software Engineer!!
 
 - 🌱 I’m currently learning Web Development
 - 🥅 2022 Goals: Have a deep grasp of standard software development process and software engineering
